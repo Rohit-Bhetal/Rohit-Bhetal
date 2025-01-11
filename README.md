@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Music Streaming Webapp fetching data from YTDL-core package  <br>🌱 I’m currently learning Js/Ts and AI/ML/DL on my Free time<br>💬 Ask me about Anime,Stocks and Trading,Chinese Novels and Manga's
+🔭 I’m currently working Music Streaming Webapp fetching data from YTDL-core package  <br>🌱 I’m currently learning Js/Ts and Rust on my Free time<br>💬 Ask me about Anime,Stocks and Trading,Chinese Novels and Manga's
 
 
 ## 🌐 Socials:
