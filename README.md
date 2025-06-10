@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/912329737869877329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bhetal-a6759a337/) 
+
 Check Out My Portfolio for My Project Live:
+
 [![Portfolio](https://img.shields.io/badge/portfolio-8A2BE2?style=for-the-badge)](https://portfolio-rohit-orpin.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:rohitbhetal103.com)
