@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Full stack Collaborative Coding platform using Nextjs  <br>🌱 I’m currently learning Js/Ts and Rust on my Free time<br>💬 Ask me about Anime,Stocks and Trading,Chinese Novels and Manga's
+🔭 I’m currently working on a Full stack Web3 Project 'Crypto Roullete'  <br>🌱 I’m currently learning Js/Ts and Rust on my Free time<br>💬 Ask me about Anime,Stocks and Trading,Chinese Novels and Manga's
 
 
 ## 🌐 Socials:
